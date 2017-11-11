@@ -1,0 +1,4 @@
+*.log
+password.txt
+
+!build.log
